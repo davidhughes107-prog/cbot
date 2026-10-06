@@ -1,0 +1,8 @@
+{
+  "xlsx_path": "vsware_bot_test_set.xlsx",
+  "widget_url": "https://www.example.com/page-with-the-chat-bubble",
+  "questions": [],
+  "timeout_seconds": 60,
+  "headless": true,
+  "scoring_model": "claude-sonnet-5"
+}

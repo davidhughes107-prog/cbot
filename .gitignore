@@ -1,0 +1,5 @@
+bot_test_config.json
+bot_test_logs/
+backups/
+__pycache__/
+~$*.xlsx
